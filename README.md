@@ -48,6 +48,7 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 - BLoC
 - Provider
 - GetX
+- Riverpod
 
 ## 🎯 Notable Projects
 
