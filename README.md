@@ -77,8 +77,5 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsalamdeveloper1999)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](your-upwork-profile)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulsalamdeveloper1999&show_icons=true&theme=radical)
-
 ---
 ⚡ Fun fact: Currently enhancing my skills in Big Data Analytics, Cloud Computing, and AI & Machine Vision through my MSc program!
