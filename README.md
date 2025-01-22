@@ -3,6 +3,16 @@
 ## 🚀 About Me
 Highly skilled Flutter Developer with over 3 years of experience, recognized with a Top-Rated badge on Upwork and a perfect 100% JSS score. Currently pursuing MSc in Computer Science at University of East London, passionate about crafting clean, efficient mobile applications that deliver exceptional user experiences.
 
+<div align="center">
+  <img src="assets/badge.png" width="100" height="100" style="border-radius: 50%;">
+  <h1>Abdul S. <img src="https://img.shields.io/badge/Top%20Rated-blue?style=flat-square&logo=upwork&logoColor=white" /></h1>
+  <p>
+    <img src="https://img.shields.io/badge/100%25-Job%20Success-brightgreen?style=flat-square&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/Top%20Rated-★-blue?style=flat-square&logo=upwork&logoColor=white" />
+  </p>
+  <p>🌍 London, United Kingdom</p>
+</div>
+
 ## 💼 Current Role
 - Freelance Flutter & FlutterFlow Developer on Upwork
 - MSc Computer Science Student at University of East London
