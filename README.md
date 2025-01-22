@@ -14,10 +14,10 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 </div>
 
 ## 💼 Current Role
-- 🚀 Software Engineer at [Nexl](https://www.nexl.io)
-  - Building LoopedIn - A LinkedIn profile data extraction tool that works in 5 minutes
-  - Developing Chrome extension for seamless data capturing
-  - Tech stack: Flutter, Dart, Chrome Extension APIs
+- 🚀 Flutter Developer at [Nexl](https://www.nexl.io)
+  - Developing cross-platform mobile applications
+  - Implementing clean architecture with BLoC pattern
+  - Tech stack: Flutter, Dart, BLoC
 - 💻 Freelance Flutter & FlutterFlow Developer on Upwork
   - Top Rated Badge | 100% Job Success Score
   - Specializing in custom mobile solutions
