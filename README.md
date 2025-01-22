@@ -14,15 +14,27 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 </div>
 
 ## 💼 Current Role
-- 🚀 Lead Flutter Developer at [Nexl](https://www.nexl.io)
-  - Developing and maintaining cross-platform mobile applications
-  - Implementing clean architecture with MVVM pattern
-  - Tech stack: Flutter, Dart, Provider/BLoC
+- 🚀 Software Engineer at [Nexl](https://www.nexl.io)
+  - Building LoopedIn - A LinkedIn profile data extraction tool that works in 5 minutes
+  - Developing Chrome extension for seamless data capturing
+  - Tech stack: Flutter, Dart, Chrome Extension APIs
 - 💻 Freelance Flutter & FlutterFlow Developer on Upwork
   - Top Rated Badge | 100% Job Success Score
   - Specializing in custom mobile solutions
 - 📚 MSc Computer Science Student at University of East London
-  - Focusing on Mobile Development & Software Architecture
+
+## 🛠️ Current Project at Nexl
+### LoopedIn - LinkedIn in 5 Minutes
+- Chrome extension for quick LinkedIn data extraction
+- Features:
+  - Profile data capture and organization
+  - Automated data processing
+  - Integration with Nexl's core platform
+  - User-friendly interface for profile management
+- Technologies:
+  - Flutter for web application
+  - Chrome Extension APIs
+  - Clean Architecture principles
 
 ## 🛠️ Skills & Technologies
 
