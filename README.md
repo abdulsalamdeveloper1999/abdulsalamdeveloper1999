@@ -14,8 +14,15 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 </div>
 
 ## 💼 Current Role
-- Freelance Flutter & FlutterFlow Developer on Upwork
-- MSc Computer Science Student at University of East London
+- 🚀 Lead Flutter Developer at [Nexl](https://www.nexl.io)
+  - Developing and maintaining cross-platform mobile applications
+  - Implementing clean architecture with MVVM pattern
+  - Tech stack: Flutter, Dart, Provider/BLoC
+- 💻 Freelance Flutter & FlutterFlow Developer on Upwork
+  - Top Rated Badge | 100% Job Success Score
+  - Specializing in custom mobile solutions
+- 📚 MSc Computer Science Student at University of East London
+  - Focusing on Mobile Development & Software Architecture
 
 ## 🛠️ Skills & Technologies
 
