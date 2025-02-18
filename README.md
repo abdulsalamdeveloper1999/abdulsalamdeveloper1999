@@ -15,6 +15,7 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 
 ## 💼 Current Role
 - 🚀 Flutter Developer at [Nexl](https://www.nexl.io)
+- 🚀 FlutterFlow Developer at [Element16media]([https://www.nexl.io](https://element16media.com/))
   - Developing cross-platform mobile applications
   - Implementing clean architecture with BLoC pattern
   - Tech stack: Flutter, Dart, BLoC
