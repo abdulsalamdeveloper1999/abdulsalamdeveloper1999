@@ -86,9 +86,9 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 - Real-time communication features
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsalam-swe/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsalamdeveloper1999)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](your-upwork-profile)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~015211ea4df4201362?mp_source=share)
 
 ---
 ⚡ Fun fact: Currently enhancing my skills in Big Data Analytics, Cloud Computing, and AI & Machine Vision through my MSc program!
