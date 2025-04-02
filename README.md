@@ -26,16 +26,17 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 
 ## 🛠️ Current Project at Nexl
 ### LoopedIn - LinkedIn in 5 Minutes
-- Chrome extension for quick LinkedIn data extraction
+- Mobile App For to Automate Linkedin 
 - Features:
-  - Profile data capture and organization
-  - Automated data processing
-  - Integration with Nexl's core platform
-  - User-friendly interface for profile management
+  - Secure User Sign In And Sign Up
+  - Searching and Adding linkedin to app either url or by name
+  - Generate Commnet for the post
+  - Generate Similar post using other user post
 - Technologies:
-  - Flutter for web application
-  - Chrome Extension APIs
-  - Clean Architecture principles
+  - Flutter 
+  - Firebase
+  - Gpt Apis
+  - Rest Apis
 
 ## 🛠️ Skills & Technologies
 
