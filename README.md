@@ -30,7 +30,7 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 - Features:
   - Secure User Sign In And Sign Up
   - Searching and Adding linkedin to app either url or by name
-  - Generate Commnet for the post
+  - Generate Comment for the post
   - Generate Similar post using other user post
 - Technologies:
   - Flutter 
