@@ -3,6 +3,12 @@
 ## 🚀 About Me
 Highly skilled Flutter Developer with over 3 years of experience, recognized with a Top-Rated badge on Upwork and a perfect 100% JSS score. Currently pursuing MSc in Computer Science at University of East London, passionate about crafting clean, efficient mobile applications that deliver exceptional user experiences.
 
+## 📄 My Resume  
+🎯 Looking for my detailed experience and skills? Check out my **CV** below!  
+
+[![Download My CV](https://img.shields.io/badge/Download-CV-%23007396?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Abdul%20Salam%202%20Page%20Cv.pdf)
+
+
 <div align="center">
   <img src="assets/badge.png" width="489" height="152" style="border-radius: 50%;">
   <h1>Abdul S. <img src="https://img.shields.io/badge/Top%20Rated-blue?style=flat-square&logo=upwork&logoColor=white" /></h1>
