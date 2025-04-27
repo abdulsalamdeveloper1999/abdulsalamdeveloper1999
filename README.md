@@ -6,7 +6,7 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 ## 📄 My Resume  
 🎯 Looking for my detailed experience and skills? Check out my **CV** below!  
 
-[![View My CV](https://img.shields.io/badge/View-CV-%23007396?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Abdul%20Salam%202%20Page%20Cv.pdf)
+[![View My CV](https://docs.google.com/document/d/10iSKas6p5UN86yhfL6-vlbwgUM2FeyNfMeg-dQO4taw/edit?usp=sharing)
 
 
 <div align="center">
