@@ -21,7 +21,7 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 </div>
 
 ## 💼 Current Role
-- 🚀 FlutterFlow Developer at [Element16media](https://element16media.com/) REMOTE Telford, Uk
+- 🚀 FlutterFlow Developer at [Element16media](https://element16media.com/meet-the-team/) REMOTE Telford, Uk
   - Developing cross-platform mobile applications
   - Implementing clean architecture with BLoC pattern
   - Tech stack: Flutter, Dart, BLoC
