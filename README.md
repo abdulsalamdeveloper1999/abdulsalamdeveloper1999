@@ -75,6 +75,11 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 
 ## 🎯 Notable Projects
 
+### 🔗 LoopedIn – LinkedIn Automation App
+Built with Flutter, Firebase, and GPT APIs
+Automates LinkedIn interactions: search, post, and comment generation
+Secure auth and AI-powered content creation
+
 ### 🎵 Music App
 - Built with FastAPI and PostgreSQL
 - Features personalized playlists and offline playback
