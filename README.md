@@ -1,7 +1,7 @@
 # Hi, I'm Abdul Salam! 👋
 
 ## 🚀 About Me
-Highly skilled Flutter Developer with over 3 years of experience, recognized with a Top-Rated badge on Upwork and a perfect 100% JSS score. Currently pursuing MSc in Computer Science at University of East London, passionate about crafting clean, efficient mobile applications that deliver exceptional user experiences.
+Highly skilled Flutter Developer with over 4 years of experience, recognized with a Top-Rated badge on Upwork and a perfect 100% JSS score. Currently pursuing MSc in Computer Science at University of East London, passionate about crafting clean, efficient mobile applications that deliver exceptional user experiences.
 
 ## 📄 My Resume  
 🎯 Looking for my detailed experience and skills? Check out my **CV** below!  
