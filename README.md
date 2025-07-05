@@ -6,7 +6,7 @@ Highly skilled Flutter Developer with over 4 years of experience, recognized wit
 ## 📄 My Resume  
 🎯 Looking for my detailed experience and skills? Check out my **CV** below!  
 
-[View My CV]([AbdulSalam_Cv.pdf](https://github.com/user-attachments/files/21082892/AbdulSalam_Cv.pdf))
+[View My CV][AbdulSalam_Cv.pdf](https://github.com/user-attachments/files/21082892/AbdulSalam_Cv.pdf)
 [Check Out My Portoflio](https://asdevify.uk)
 
 
