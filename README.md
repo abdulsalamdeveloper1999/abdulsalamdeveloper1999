@@ -25,7 +25,7 @@ I'm a **Full-Stack Software Engineer** based in **Whitburn, Scotland**, with **4
 
 Since 2022 I've worked across freelance, agency and startup roles, delivering mobile apps, dashboards, MVPs, SaaS platforms and real-time systems. I've shipped around **10 applications** for clients and startups — **two are live on the App Store right now**, both built solo.
 
-Currently I build the product at **[HumanClip](https://www.humanclip.com)**, a brand storytelling startup helping purpose-driven brands turn authentic stories into video content.
+I currently work **full time as a Full-Stack Engineer at [HumanClip](https://www.humanclip.com)**, a brand storytelling startup helping purpose-driven brands turn authentic stories into video content.
 
 - 🎬 **Full-Stack Engineer** @ [HumanClip](https://www.humanclip.com) — brand video SaaS · Sep 2025 – present
 - 🏢 **FlutterFlow Developer** @ [Element16Media](https://element16media.com/) — UK digital agency · Sep 2024 – Sep 2025
@@ -67,11 +67,11 @@ Build workout templates, log live sessions, track progression over time. **Sole 
 
 ---
 
-## 🔨 What I'm Building Now
+## 💼 Current Role — Full-Stack Engineer at HumanClip
 
 ### 🎬 [HumanClip](https://www.humanclip.com) — *Real stories, lasting trust.*
 
-Two-sided platform connecting brands with creators to produce on-brand video content. In beta, public launch upcoming.
+Full-time engineering role since September 2025. Two-sided platform connecting brands with creators to produce on-brand video content — in beta, public launch upcoming. I lead the Flutter mobile app and work across the Next.js web platform and Convex backend.
 
 | Layer | Tech |
 |---|---|
@@ -113,28 +113,15 @@ Event platform with guest RSVP, real-time gameplay, live leaderboards and a host
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 📅 Engage 2.0
+### 📅 Engage 2.0 — conference & attendee engagement app
 
-Conference and attendee engagement app — schedules, speaker profiles, notes, galleries and networking.
+Summit event app covering schedules, speaker profiles, personal notes, galleries and attendee networking. Built in a three-developer team.
 
 **Stack:** Flutter · Supabase · React · Firebase
 
-**Highlights:** offline-first caching with degraded UI state · Braindate SSO via UUID injection · background image pre-caching in the BLoC layer
-
-</td>
-<td width="50%">
-
-### 🔄 SwapSkill
-
-Skill-exchange platform connecting users to trade knowledge and services.
-
-**Stack:** Flutter · Spring Boot · PostgreSQL
-
-**Highlights:** Real-time chat · profile matching · JWT auth
-
-[![Repo](https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github)](https://github.com/abdulsalamdeveloper1999/SwapSkill-App-Flutter-SpringBoot)
+**Highlights:** offline-first caching with a degraded UI state when connectivity drops · Braindate SSO via UUID injection into the session URL · background image pre-caching in the BLoC layer to kill render stutter
 
 </td>
 </tr>
